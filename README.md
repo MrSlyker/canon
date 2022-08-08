@@ -2,10 +2,18 @@
 
 <p>This tools is not made to be misused.</p>
 
-## Installing ( Kali Linux / Termux )
+## Installing ( Kali Linux )
 
 ```
 git clone https://github.com/MrSlyker/canon
+cd canon
+bash canon.sh
+```
+
+## Installing ( Termux )
+
+```
+git clone https://github.com/MrSlyker/canon-termux
 cd canon
 bash canon.sh
 ```
