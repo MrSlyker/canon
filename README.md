@@ -14,7 +14,7 @@ bash canon.sh
 
 ```
 git clone https://github.com/MrSlyker/canon-termux
-cd canon
+cd canon-termux
 bash canon.sh
 ```
 
